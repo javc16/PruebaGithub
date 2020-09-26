@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DUOld2c0c6eSF8x13GRxOT5nrdqR2xxsfQ/cMws0+d72gD3BRo5zTHuc1mAlAzC+hQZKwjlgb7SSMkaXxW6Jig==",
+  "dgSpecHash": "ajMF/+yy9ArruZdpgZDdmMXBU/EQwMkoN5Eh51C2JRyTZhRCDUtkhAshQFoEfl4FiW8sbwavNSk9kfXsyyf5xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexe\\Desktop\\Repos\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
+  "projectFilePath": "C:\\Users\\alexe\\Documents\\PruebaGithub\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexe\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

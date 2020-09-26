@@ -15,8 +15,7 @@ namespace LuckyStore.Context
             
         }
 
-        public DbSet<Factura> Factura { get; set; }
-        public DbSet<Detalle> Detalle { get; set; }
+  
 
     }
 }

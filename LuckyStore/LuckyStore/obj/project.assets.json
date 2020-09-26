@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexe\\Desktop\\Repos\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
+      "projectUniqueName": "C:\\Users\\alexe\\Documents\\PruebaGithub\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
       "projectName": "LuckyStore",
-      "projectPath": "C:\\Users\\alexe\\Desktop\\Repos\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
+      "projectPath": "C:\\Users\\alexe\\Documents\\PruebaGithub\\LuckyStore\\LuckyStore\\LuckyStore.csproj",
       "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexe\\Desktop\\Repos\\LuckyStore\\LuckyStore\\obj\\",
+      "outputPath": "C:\\Users\\alexe\\Documents\\PruebaGithub\\LuckyStore\\LuckyStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",
